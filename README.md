@@ -1,4 +1,4 @@
-# SA Gov Quarkus Project
+# Quarkus Microservice Template
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
